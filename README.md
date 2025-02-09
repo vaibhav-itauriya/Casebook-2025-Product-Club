@@ -4,13 +4,13 @@ This repository contains a structured collection of interview transcripts, short
 
 ## 📂 Repository Structure
 
-Interview Transcript/ \n
-Decks/ \n
-    ├── Flipkart Shortlisted/ \n
-    ├── Flipkart Non Shortlisted/ \n
-    ├── Hi Labs Shortlisted/ \n
-    ├── Hi Labs Non Shortlisted/ \n
-Final Cases/ \n
+Interview Transcript/ <br>
+Decks/ <br>
+    ├── Flipkart Shortlisted/ <br>
+    ├── Flipkart Non Shortlisted/ <br>
+    ├── Hi Labs Shortlisted/ <br>
+    ├── Hi Labs Non Shortlisted/ <br>
+Final Cases/ <br>
 
 ### 📁 Interview Transcript  
 Contains detailed transcripts of interview experiences.  
